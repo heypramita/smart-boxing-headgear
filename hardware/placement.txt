@@ -1,0 +1,19 @@
+           FRONT
+
+      [FSR402 #1]
+       [MPU6050]
+
+LEFT                     RIGHT
+[Piezo]               [FSR402 #2]
+
+
+          TOP
+      [ADXL345]
+
+
+          BACK
+      [MPU6050 #2]
+
+
+      LOWER BACK
+   [ESP32 + Battery]
